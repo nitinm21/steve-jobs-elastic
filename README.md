@@ -1,4 +1,4 @@
-# steve-jobs-elastic
+
 ## How to run?
 
 ### 1. Clone the Repository
@@ -19,7 +19,7 @@ OPENAI_API_KEY=your_openai_key_here
 ELEVENLABS_API_KEY=your_elevenlabs_key_here
 ```
 
-> 💡 You must create accounts with [Elastic Cloud](https://cloud.elastic.co/), [OpenAI](https://platform.openai.com/account/api-keys), and [ElevenLabs](https://www.elevenlabs.io/) to get these API keys.
+> Create accounts with [Elastic Cloud](https://cloud.elastic.co/), [OpenAI](https://platform.openai.com/account/api-keys), and [ElevenLabs](https://www.elevenlabs.io/) to get these API keys.
 
 ### 3. Install Dependencies
 
